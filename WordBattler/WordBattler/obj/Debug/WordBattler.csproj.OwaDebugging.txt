@@ -1,0 +1,7 @@
+False
+8b08e7ab-3733-468e-9b61-ada692c2fafd43281652-9729-4ca9-8989-11274cd02de8
+{43345d97-caa3-4406-86ca-332332ca4e20}{a41d8532-7b57-48fa-8b25-5ef191b33d31}
+{0ff24fc6-b098-4eac-a14f-ce2ec5cc7dbb}
+1.0.0.0
+WordBattler
+_layouts/15/

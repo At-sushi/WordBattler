@@ -1,0 +1,26 @@
+﻿body {
+}
+
+.leftmenu {
+    float: left;
+    width: 120px;
+}
+.rightmenu {
+    float: right;
+    width: 240px;
+}
+
+.battler-window {
+    white-space: nowrap;
+    clear: left;
+    width: 400px;
+}
+
+.battle-message-box {
+    float: left;
+    color: #000;
+    width: 200px;
+    background-color: #fff;
+    margin: 5px;
+    padding-left: 10px;
+}

@@ -1,0 +1,11 @@
+﻿p {
+    margin: 0 auto;
+    clear: left;
+}
+
+#character-radiobox {
+    text-align: center;
+    float: left;
+    width: 100px;
+    margin-right: 20px;
+}

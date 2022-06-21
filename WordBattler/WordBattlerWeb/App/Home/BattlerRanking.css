@@ -1,0 +1,15 @@
+﻿body {
+}
+
+.ranking table,th,td {
+    border: 1px none;
+    border-collapse: collapse;
+}
+
+.my-rank {
+    color: #ff0000;
+}
+
+.rank {
+    text-align: right;
+}

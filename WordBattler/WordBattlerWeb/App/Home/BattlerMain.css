@@ -1,0 +1,6 @@
+﻿body {
+}
+
+.attack,.defense,.speed,.luck {
+    text-align: right;
+}

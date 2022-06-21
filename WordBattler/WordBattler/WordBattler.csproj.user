@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SharePointSiteUrl>http://soji-vaio/</SharePointSiteUrl>
+    <GeneratedFeatureId>8b08e7ab-3733-468e-9b61-ada692c2fafd</GeneratedFeatureId>
+    <GeneratedPackageId>43281652-9729-4ca9-8989-11274cd02de8</GeneratedPackageId>
+    <GeneratedModuleId>{43345d97-caa3-4406-86ca-332332ca4e20}</GeneratedModuleId>
+    <GeneratedListId>{a41d8532-7b57-48fa-8b25-5ef191b33d31}</GeneratedListId>
+    <GeneratedProductId>{0ff24fc6-b098-4eac-a14f-ce2ec5cc7dbb}</GeneratedProductId>
+    <GeneratedAppVersion>1.0.0.0</GeneratedAppVersion>
+    <GeneratedClientSecret>yKDWAsNiTayCwc3AHPxettBb/zpYOD9XES8uAHksKFI=</GeneratedClientSecret>
+  </PropertyGroup>
+</Project>

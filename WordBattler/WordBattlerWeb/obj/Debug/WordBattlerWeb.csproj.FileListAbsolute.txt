@@ -1,0 +1,6 @@
+C:\Users\soji_2\Documents\Visual Studio 2012\Projects\WordBattler\WordBattlerWeb\bin\WordBattlerWeb.dll
+C:\Users\soji_2\Documents\Visual Studio 2012\Projects\WordBattler\WordBattlerWeb\bin\WordBattlerWeb.pdb
+C:\Users\soji_2\Documents\Visual Studio 2012\Projects\WordBattler\WordBattlerWeb\obj\Debug\WordBattlerWeb.dll
+C:\Users\soji_2\Documents\Visual Studio 2012\Projects\WordBattler\WordBattlerWeb\obj\Debug\WordBattlerWeb.pdb
+C:\Users\soji_2\Documents\Visual Studio 2012\Projects\WordBattler\WordBattlerWeb\bin\WordBattlerWeb.dll.config
+C:\Users\soji_2\Documents\Visual Studio 2012\Projects\WordBattler\WordBattlerWeb\obj\Debug\WordBattlerWeb.csprojResolveAssemblyReference.cache

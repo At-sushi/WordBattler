@@ -1,0 +1,24 @@
+﻿.battle-animation {
+    margin: 5px;  
+    padding-left: 10px;
+    width: 270px;
+}
+
+.battle-message-box-animation {
+    clear: both;
+    color: #fff;
+    background-color: #000;
+    border-radius: 15px;
+    text-align: center;
+    margin: 5px;
+    padding: 15px;
+}
+#leftmenu {
+    float: left;
+    width: 120px;
+}
+#rightmenu {
+    float: right;
+    width: 120px;
+}
+
